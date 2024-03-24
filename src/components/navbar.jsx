@@ -24,7 +24,7 @@ function Navbar() {
               textDecoration: isActive ? "none" : "none",
             };
           }}
-          to="/"
+          to="/MyReactApp"
         >
           Home
         </NavLink>

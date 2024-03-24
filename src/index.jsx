@@ -9,7 +9,7 @@ import About from "./components/About";
 function App() {
   const routes = createBrowserRouter([
     {
-      path: "/",
+      path: "/MyReactApp",
       element: (
         <>
           <Navbar />
